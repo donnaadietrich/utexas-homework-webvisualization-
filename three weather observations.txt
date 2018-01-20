@@ -1,0 +1,10 @@
+Three observations:
+
+1) As expected, the farther you move from the equator, the cooler it gets.  Although, the temperature deosn't seem to siginficantly drop until about 20 degrees north and south of the equator.  After 40 degrees, the temperature really starts to drop.  
+
+2) There are more cities north of the equator than south of the equator, likely due to more land mass. 
+
+3) Distance from the equator appears to have little effect on cloudiness and humidity.
+
+
+
